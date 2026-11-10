@@ -264,8 +264,8 @@ The ranking between FIR and IIR reverses across window sizes: FIR slightly leads
 Requires Python 3.10+ (verified on Python 3.11.8).
 
 ```bash
-git clone <repository-url>
-cd hydraulic-pump-fault-detection-github
+git clone https://github.com/Nathanaelkbp/hydraulic-pump-fault-detection.git
+cd hydraulic-pump-fault-detection
 python -m venv .venv
 ```
 
