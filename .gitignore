@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Raw UCI dataset files (large tab-delimited matrices and archives)
+# Place PS1.txt, FS1.txt, and profile.txt in data/ locally as described in DATASET.md
+data/*.txt
+data/*.zip
+condition+monitoring+of+hydraulic+systems/
+condition+monitoring+of+hydraulic+systems.zip
+PS1.txt
+PS2.txt
+PS3.txt
+PS4.txt
+PS5.txt
+PS6.txt
+EPS1.txt
+FS1.txt
+FS2.txt
+TS1.txt
+TS2.txt
+TS3.txt
+TS4.txt
+VS1.txt
+CE.txt
+CP.txt
+SE.txt
+profile.txt
+description.txt
+documentation.txt
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment variables and credentials
+.env
+*.key
+*.pem
+
